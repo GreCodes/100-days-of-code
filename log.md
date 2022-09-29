@@ -23,7 +23,7 @@ I've been working on my website. For some reason I cannot get the CSS to work. I
 **Link(s) to work**
 1. [My Website](https://codepen.io/GreCodes/pen/NWMyvod)
 
-### Day 5: September 29, Thursday
+### Day 6: September 29, Thursday
   **Today's Progress**: I added a navbar and did some changes on my website but  I didn't save the progress, so unfortunately, I have to start all over again.
   
 **Thoughts**: I am getting there. It is looking like a blog now though. But Now I want to build a personal website and blog of my life as an adventurous traveller in Europe. There is so much to tell...
