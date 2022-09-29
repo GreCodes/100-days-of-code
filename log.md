@@ -7,10 +7,10 @@
 ### Day 2: September 26, Monday
 ### Day 3: September 27, Tuesday
 
-**Today's Progress**: Finished small project by FreeCodeCamp: Learn CSS flexbox by building a photo gallery. from https://www.freecodecamp.org/learn/2022/responsive-web-design/ , worked on canvas functionality for the app.
+**Today's Progress**: Finished small project by FreeCodeCamp: Learn CSS flexbox by building a photo gallery. (https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 **Thoughts:** I need to practice more. I am happy I could follow instructions, but I need to remember so many functionalities.
-**Link to work:** (http://www.example.com](https://www.freecodecamp.org/GreCodes)
+**Link to work:** (https://www.freecodecamp.org/GreCodes)
 
 ### Day 4: September 28, Wednesday
 
@@ -20,4 +20,5 @@
 
 **Link(s) to work**
 1. [My Website](https://codepen.io/GreCodes/pen/NWMyvod)
-2.
+
+### Day 5: September 28, Thursday
