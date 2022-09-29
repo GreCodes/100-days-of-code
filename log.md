@@ -18,7 +18,7 @@ I've been working on my website. For some reason I cannot get the CSS to work. I
 
 **Today's Progress**: I wanted to use vintage colors in my website. So, I found some really cool palettes, and I decided for the purplish tonalities. I also found the reason why my CSS code was not working. Changing one letter made the difference.
 
-**Thoughts**: No idea how my website will look like. The idea was that I was going to build an ecommerce website, but I am starting with the easiest code : --!<h1>, <p>, links, etc. --!
+**Thoughts**: No idea how my website will look like. The idea was that I was going to build an ecommerce website, but I am starting with the easiest code lines : !--<h1>, <p>, links, etc. --!
 
 **Link(s) to work**
 1. [My Website](https://codepen.io/GreCodes/pen/NWMyvod)
