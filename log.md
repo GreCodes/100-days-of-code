@@ -33,7 +33,7 @@ I've been working on my website. For some reason I cannot get the CSS to work. I
 1. [My Website](https://codepen.io/GreCodes/pen/NWMyvod)
   
   ### Day 5: September 30 Friday! 
-  **Today's Progress**: 
+  **Today's Progress**: I noticed I didn't read the instructions properly. The code should be uploaded here!!.  I have just uploaded my code on this repository. I hope it is properly saved and in the right location. 
   
 **Thoughts**: 
   **Link(s) to work**
