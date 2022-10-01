@@ -51,5 +51,5 @@ Should I also translate my content into Spanish? I mean this is my native langua
 Do people understand what Aventurera Del Sur means?
 
   **Link(s) to work**
-1. [My Website]([https://codepen.io/GreCodes/pen/NWMyvod])
+1. [My Website](https://codepen.io/GreCodes/pen/NWMyvod)
 
