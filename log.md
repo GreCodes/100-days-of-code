@@ -41,3 +41,15 @@ I've been working on my website. For some reason I cannot get the CSS to work. I
   **Link(s) to work**
 1. [My Website](https://codepen.io/GreCodes/pen/NWMyvod)
 
+  ### Day 6: October 1 Saturday
+  **Today's Progress**: I used GitHub's dev online tool but I have no idea how to get the code uploaded onto this GitHub folder. I added a navbar, a picture and I continued working on my <em>blog</em>. I also  made the navbar a bit transparent. Are the colors ok? Too Barbie-like, but perhaps they don't fit the travelling/personal blog I wish to build. Nevertheless, I think I already know the direction I want to pursue.
+**The last days have been very difficult for our family, so I may not be connected during the week**
+
+  
+**Thoughts**: I want to host my website on GitHub, so it's live!
+Should I also translate my content into Spanish? I mean this is my native language.
+Do people understand what Aventurera Del Sur means?
+
+  **Link(s) to work**
+1. [My Website]([https://codepen.io/GreCodes/pen/NWMyvod])
+
