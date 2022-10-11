@@ -1,8 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: September 24, 2022 
-
-
+### Day 0: September 24, Friday 
 ### Day 1: September 25, Sunday
 ### Day 2: September 26, Monday
 ### Day 3: September 27, Tuesday
@@ -53,3 +51,12 @@ Do people understand what Aventurera Del Sur means?
   **Link(s) to work**
 1. [My Website](https://codepen.io/GreCodes/full/NWMyvod)
 
+ ### Day 7: October 11 Tuesday
+ 
+  **Today's Progress**: Let's start this while I can
+
+  
+**Thoughts**:
+  **Link(s) to work**
+1. [My Website](
+209. https://codepen.io/GreCodes/full/NWMyvod)
