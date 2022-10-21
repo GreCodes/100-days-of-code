@@ -12,7 +12,7 @@ I've been working on my website. For some reason I cannot get the CSS to work. I
 **Thoughts:** I need to practice more. I am happy I could follow instructions from FreeCodeCamp, but I need to remember so many functionalities.
 **Link to work:** (https://www.freecodecamp.org/GreCodes)
 
-### Day 4: September 28, Wednesday
+### Day 1: September 28, Wednesday
 
 **Today's Progress**: I wanted to use vintage colors in my website. So, I found some really cool palettes, and I decided for the purplish tonalities. I also found the reason why my CSS code was not working. Changing one letter made the difference.
 
@@ -21,7 +21,7 @@ I've been working on my website. For some reason I cannot get the CSS to work. I
 **Link(s) to work**
 1. [My Website](https://codepen.io/GreCodes/pen/NWMyvod)
 
-### Day 6: September 29, Thursday
+### Day 2: September 29, Thursday
   **Today's Progress**: I added a navbar and did some changes on my website but  I didn't save the progress, so unfortunately, I have to start all over again.
   
 **Thoughts**: I am getting there. It is looking like a blog now though. But Now I want to build a personal website and blog of my life as an adventurous traveller in Europe. There is so much to tell...
@@ -39,7 +39,7 @@ I've been working on my website. For some reason I cannot get the CSS to work. I
   **Link(s) to work**
 1. [My Website](https://codepen.io/GreCodes/pen/NWMyvod)
 
-  ### Day 6: October 1 Saturday
+  ### Day 3: October 1 Saturday
   **Today's Progress**: I used GitHub's dev online tool but I have no idea how to get the code uploaded onto this GitHub folder. I added a navbar, a picture and I continued working on my <em>blog</em>. I also  made the navbar a bit transparent. Are the colors ok? Too Barbie-like, but perhaps they don't fit the travelling/personal blog I wish to build. Nevertheless, I think I already know the direction I want to pursue.
 **The last days have been very difficult for our family, so I may not be connected during the week**
 
@@ -51,7 +51,7 @@ Do people understand what Aventurera Del Sur means?
   **Link(s) to work**
 1. [My Website](https://codepen.io/GreCodes/full/NWMyvod)
 
- ### Day 7: October 11 Tuesday
+ ### Day 4: October 11 Tuesday
  
   **Today's Progress**: Let's start this while I can
 
@@ -60,3 +60,5 @@ Do people understand what Aventurera Del Sur means?
   **Link(s) to work**
 1. [My Website](
 209. https://codepen.io/GreCodes/full/NWMyvod)
+
+
