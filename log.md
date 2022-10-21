@@ -48,14 +48,22 @@ Do people understand what Aventurera Del Sur means?
   **Link(s) to work**
 1. [My Website](https://codepen.io/GreCodes/full/NWMyvod)
 
- ### Day 6: October 11 Tuesday
+ ### Day 6: October 21 Tuesday
  
-  **Today's Progress**: Let's start this while I can
+  **Today's Progress**: There's a lot going on in my life lately. Today I went back to JavaScript. Just practicing variables and console.log
+  Happy because Coursera is  supporting me (again) with free courses. I am very grateful to be virtually attending Meta's Front End Development Course.
+  I am learning Javascript. 
 
   
-**Thoughts**:
+**Thoughts**: Today I practiced declaring variables. I am uploading my progress to codepen.io
+I was a bit sleepy and I missed how to separate strings from variables, so when my code was run, they were not separated. Something like "HiIamGreCodes". I was using the + symbol but it didn't help much, later I tried giving one space before and after the "" in every string. Something like in:"now says" :
+
+
+console.log(petCat," now says " ,catSound);
+
+It worked but it took me some time. Then I remember the commas made the space. Issue solved!
+
   **Link(s) to work**
-1. [My Website](
-209. https://codepen.io/GreCodes/full/NWMyvod)
+1. [Declaring Variables Week 1 Programming with JavaScript- Coursera](https://codepen.io/GreCodes/pen/ZEogBdy)
 
 
