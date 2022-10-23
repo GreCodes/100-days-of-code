@@ -66,4 +66,29 @@ It worked but it took me some time. Then I remember the commas made the space. I
   **Link(s) to work**
 1. [Declaring Variables Week 1 Programming with JavaScript- Coursera](https://codepen.io/GreCodes/pen/ZEogBdy)
 
+ ### Day 7: October 22 Saturday
+ 
+  **Today's Progress**: Today I studied advanced operators and I remembered the first times I connected to the internet. It was in 2001 and with dial-up!
+  I remember Geocities websites in Comic Sans font. 
+  For some reason I remember a song I heard for the first time in 2000, and it has been playing non-stop in my head. 
+  The song is Hello World, by Belgian-Spanish singer Belle Perez. 
+  It is such a happy song! So, life should be fun for everyone. 
+  In her honor I recreated a 90s-early 2000s website with some Javascript alerts. The reason is that I remember in 2001, I was clicking non-stop a random Mexican guy's   website. I must have clicked on it more than 50 times. 
+  
+  
+**Thoughts**: 
+
+
+  I practiced more JS variables and advanced operators. 
+  I had a lot of fun using html and css. 
+  
+  Tomorrow I have to start designing my mother's website. She wants to make her pottery art available for everybody. 
+  I have full freedom to build it. 
+
+  **Link(s) to work**
+1. [ JavaScript Alerts + 90s website](https://codepen.io/GreCodes/pen/YzvKPGw)
+
+
+
+
 
