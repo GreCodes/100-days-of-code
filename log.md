@@ -102,11 +102,11 @@ It worked but it took me some time. Then I remember the commas made the space. I
 **Thoughts**: 
 
 
-JavaScript continues to be difficult to grasp. Hopefully I can start using it in my projects soon.
+JavaScript continues to be difficult to grasp. Hopefully I can start using it in my projects soon. I have to watch out for the spaces though. Sometimes the code doesn't work if you don't leave spaces or viceversa.
 I should start building that pottery webshop for my mother.
 
   **Link(s) to work**
-1. [Using markdown] (https://github.com/GreCodes/new90sWebsite)
+1. [Using markdown](https://github.com/GreCodes/new90sWebsite)
 
 
 
