@@ -89,7 +89,7 @@ It worked but it took me some time. Then I remember the commas made the space. I
 1. [ JavaScript Alerts + 90s website](https://codepen.io/GreCodes/pen/YzvKPGw)
 
 
-### Day 8: October 26 Saturday
+### Day 8: October 26 Wednesday 2022
  
   **Today's Progress**:
   
