@@ -89,6 +89,25 @@ It worked but it took me some time. Then I remember the commas made the space. I
 1. [ JavaScript Alerts + 90s website](https://codepen.io/GreCodes/pen/YzvKPGw)
 
 
+### Day 8: October 26 Saturday
+ 
+  **Today's Progress**:
+  
+ I've been doing many things these days. I was logging my progress here but it seems a didn't commit changes.
+ I will count it as a day because I was not coding all the time. 
+ 
+ I learned a bit of Markdown! It is super simple and handy. I remember we used a similar format (or maybe the same) for the Wikis I wrote while in college. 
+ I practiced the for and while lopps in JavaScript.
+  
+**Thoughts**: 
+
+
+JavaScript continues to be difficult to grasp. Hopefully I can start using it in my projects soon.
+I should start building that pottery webshop for my mother.
+
+  **Link(s) to work**
+1. [Using markdown] (https://github.com/GreCodes/new90sWebsite)
+
 
 
 
