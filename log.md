@@ -109,5 +109,64 @@ I should start building that pottery webshop for my mother.
 1. [Using markdown](https://github.com/GreCodes/new90sWebsite)
 
 
+### Day : November 9 Wednesday 2022
+ 
+  **Today's Progress**:
+  
+Learning . I've been learning Arrays, Objects and Functions (Object Literals and the Dot, and the Brackets Notation).
+
+So, arrays are objects, with their own built-in properties and methods.
+push() and pop() are the most commonly used methods. I was practicing using my children names ( this way I remember).
+
+var children = [];
+children.push("Luna");
+children.push("Sunna"); 
+
+If I want to remove the last item ("Sunna"), I can use the pop() method: 
+children.pop ();
+console.log(children); 
+
+Arrays are iterable
+Strings are also iterable.
+
+I learned about concatenation ( joining strings together).
+
+var parting = "Goodbye";
+var name = "Robin";
+
+The following can be used to return both of these values as a combined string: 
+
+console.log( parting + name );
+console.log( parting.concat(name) );
+
+I also learned about the property length,and methods:  chatAt(), concat(), indexOf(), lastIndexOf(), Split(), toUpperCase() and toLowerCase().
+
+var greet = "Hello, ";
+var place = "World"
+
+greet.length; //7
+greet.charAt(0): //H ----- It reads the individual chracter at a specific index in a string starting from zero.
+"Wo".concat("rl").concat("d"); // World ------ This method joins two strings.
+"ho-ho-ho".indexOf('-'); //2-----This method returns the location of the first position that matches a character.
+"ho-ho-ho".split("-"); // ['ho', 'ho', 'ho'] ------This method chops up the string into an array of sub-strings.
+
+greet.toUpperCase(); // "HELLO, " ----------
+greet.toLowerCase(); // "hello, " ---------- Both methods change the casing of strings.
+
+To create a new empty array literals, we use: 
+
+var children = []
+
+To create a new empty object literal and assign it to the variable favCar, we use:
+
+var favDrink = {};
+
+Remember: An object consists of key-value pairs, known as properties.
+
+**Thoughts**: 
+
+I still feel JavaScript is very confusing. 
 
 
+  **Link(s) to work**
+Not for now
