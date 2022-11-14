@@ -177,9 +177,35 @@ Not for now
 ### Day 10 : November 14 Monday 2022
  
   **Today's Progress**:
+  Reading about two coding styles (paradigms), namely Functional Programming(FP) and Object Oriented Programming(OPP).
   
+  In FP, many functions and variables are used. Data and functionality are kept separate and data is passed into functions only when we want something computed. 
   
-**Thoughts**: 
+  Functions return new values and then those values are used somewhere else in the code.
+  
+  In OPP, we group data and functionality as properties and methods inside objects.
+
+For example, if I have a virtualPet object, I can give it a sleepy property and a nap() method:
+var virtualPet = {
+    sleepy: true,
+    nap: function() {}
+}
+
+In OOP methods update properties stored in the object instead of generating new return values.
+
+For example, if I check the sleepy property on the virtualPet object, I can confirm that it's set to true.
+
+However, once I've ran the nap() method on the virtualPet object, will the sleepy property's value change?
+  
+ FP: works by keeping the data and functionality separate
+ OOP: works by keeping the data and functionality grouped in meaningful objects.
+ 
+ I also learned about var, let, and const.
+ 
+ Var 
+ Let
+  
+**Thoughts**: no comments
 
 
   **Link(s) to work**
