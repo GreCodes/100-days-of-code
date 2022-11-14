@@ -109,7 +109,7 @@ I should start building that pottery webshop for my mother.
 1. [Using markdown](https://github.com/GreCodes/new90sWebsite)
 
 
-### Day : November 9 Wednesday 2022
+### Day 9: November 9 Wednesday 2022
  
   **Today's Progress**:
   
@@ -166,6 +166,20 @@ Remember: An object consists of key-value pairs, known as properties.
 **Thoughts**: 
 
 I still feel JavaScript is very confusing. 
+
+
+  **Link(s) to work**
+Not for now
+
+
+
+
+### Day 10 : November 14 Monday 2022
+ 
+  **Today's Progress**:
+  
+  
+**Thoughts**: 
 
 
   **Link(s) to work**
